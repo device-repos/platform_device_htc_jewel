@@ -8,7 +8,7 @@ $(call inherit-product, device/htc/jewel/jewel.mk)
 
 # Device naming
 PRODUCT_DEVICE := jewel
-PRODUCT_NAME := cm_jewel
+PRODUCT_NAME := oct_jewel
 PRODUCT_BRAND := htc
 PRODUCT_MODEL := EVO
 PRODUCT_MANUFACTURER := HTC
